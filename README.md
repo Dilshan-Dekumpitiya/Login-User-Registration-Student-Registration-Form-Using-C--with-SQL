@@ -1,4 +1,4 @@
-# Login, User Registration and Student Registration Form Using C with SQL Server Management Studio
+# Login, User Registration and Student Registration Form Using C# with SQL Server
 ## Technologies 
 - C#
 ## IDE
